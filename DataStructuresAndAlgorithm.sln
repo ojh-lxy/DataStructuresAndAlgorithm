@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数鸡", "ji\鸡\数鸡.csproj", "{6AC42099-B3C5-4E13-8779-F0FCD24C0826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解释数据结构", "md\sa\解释数据结构.csproj", "{724D749C-136D-412C-B9EE-AF7296FF4593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRead", "TextRead\TextRead.csproj", "{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC42099-B3C5-4E13-8779-F0FCD24C0826}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6AC42099-B3C5-4E13-8779-F0FCD24C0826}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6AC42099-B3C5-4E13-8779-F0FCD24C0826}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6AC42099-B3C5-4E13-8779-F0FCD24C0826}.Release|anycpu.Build.0 = Release|anycpu
+		{724D749C-136D-412C-B9EE-AF7296FF4593}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{724D749C-136D-412C-B9EE-AF7296FF4593}.Debug|anycpu.Build.0 = Debug|anycpu
+		{724D749C-136D-412C-B9EE-AF7296FF4593}.Release|anycpu.ActiveCfg = Release|anycpu
+		{724D749C-136D-412C-B9EE-AF7296FF4593}.Release|anycpu.Build.0 = Release|anycpu
+		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
