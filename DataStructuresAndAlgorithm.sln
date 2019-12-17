@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解释数据结构", "md\sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRead", "TextRead\TextRead.csproj", "{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算年龄和姓氏", "计算年龄和姓氏\计算年龄和姓氏.csproj", "{33B53943-47B6-4735-BE8B-FF8E3AA061D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +27,9 @@ Global
 		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Debug|anycpu.Build.0 = Debug|anycpu
 		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Release|anycpu.ActiveCfg = Release|anycpu
 		{AC547FAC-5D5B-41F5-BF23-E34124A7A4EE}.Release|anycpu.Build.0 = Release|anycpu
+		{33B53943-47B6-4735-BE8B-FF8E3AA061D4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{33B53943-47B6-4735-BE8B-FF8E3AA061D4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{33B53943-47B6-4735-BE8B-FF8E3AA061D4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{33B53943-47B6-4735-BE8B-FF8E3AA061D4}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
