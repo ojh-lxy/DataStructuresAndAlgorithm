@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算年龄和姓氏", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扑克牌发牌", "扑克牌发牌\扑克牌发牌.csproj", "{87AAA49B-55E1-4D51-926F-FE5209D54982}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树计算", "二叉树计算\二叉树计算.csproj", "{ABDE680A-0222-454C-8B33-206BDC1F9E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -37,5 +39,9 @@ Global
 		{87AAA49B-55E1-4D51-926F-FE5209D54982}.Debug|anycpu.Build.0 = Debug|anycpu
 		{87AAA49B-55E1-4D51-926F-FE5209D54982}.Release|anycpu.ActiveCfg = Release|anycpu
 		{87AAA49B-55E1-4D51-926F-FE5209D54982}.Release|anycpu.Build.0 = Release|anycpu
+		{ABDE680A-0222-454C-8B33-206BDC1F9E65}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{ABDE680A-0222-454C-8B33-206BDC1F9E65}.Debug|anycpu.Build.0 = Debug|anycpu
+		{ABDE680A-0222-454C-8B33-206BDC1F9E65}.Release|anycpu.ActiveCfg = Release|anycpu
+		{ABDE680A-0222-454C-8B33-206BDC1F9E65}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
